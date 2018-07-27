@@ -1,10 +1,9 @@
 package com.javacircle.mybatis;
 
-import com.javacircle.mybatis.model.*;
-import org.apache.ibatis.type.MappedTypes;
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import com.javacircle.mybatis.model.*;
 
 // @MappedTypes(Users.class)
 // @MapperScan("com.javacircle.mybatis.mapper")

@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "datasources.one",
+    "type": "java.lang.String",
+    "description": "A description for 'datasources.one'"
+  },
+  {
+    "name": "datasources.another.jdbc-url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasources.another.jdbc-url'"
+  }
+]}
