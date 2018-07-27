@@ -1,14 +1,14 @@
-datasources:
- one:
-  jdbcUrl: jdbc:mysql://localhost:3306/dev?useSSL=false
-  username: devuser
-  password: test
-  maximumPoolSize: 1
- another:
-  jdbcUrl: jdbc:h2:file:~/multitest
-  username: SA
-  password: 
-  maximumPoolSize: 1
-
-server:
-  port: 3000
+#datasources:
+# one:
+#  jdbcUrl: jdbc:mysql://localhost:3306/dev?useSSL=false
+#  username: devuser
+#  password: test
+#  maximumPoolSize: 1
+# another:
+#  jdbcUrl: jdbc:h2:file:~/multitest
+#  username: SA
+#  password: 
+#  maximumPoolSize: 1
+#
+#server:
+#  port: 3000
